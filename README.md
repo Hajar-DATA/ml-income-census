@@ -48,7 +48,7 @@
     ├── data/
     │   └── adult.csv
     └── report/
-        └── ML_with_Python_report.pdf
+        └── ML_with_Python_final.pdf
 
 ---
 
